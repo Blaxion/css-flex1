@@ -1,0 +1,13 @@
+.flex-container{
+    display: inline-flex;
+    background-color: peachpuff;
+    height: 90vh;
+    align-items: center;
+    justify-content: space-between;
+}
+.flex-item{
+    background-color: rgb(221, 107, 41);
+    height: 20vh;
+    margin:10px;
+    padding: 50px;    
+}
